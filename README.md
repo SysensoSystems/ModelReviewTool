@@ -11,7 +11,8 @@ Usage:
 - Review report can be exported into XLS/HTML/PPT formats.
 - During the review process, the intermediate report can be stored in a specific file format(.mrt) for this tool. This can be loaded anytime and then the review can be continued.
 
-Note: This tool is a prototype. Please share your comments and contact us if you are interested in updating the features further.
+Please share your comments and contact us if you are interested in updating the features further.
 
 Developed by: Sysenso Systems, https://sysenso.com/
+
 Contact: contactus@sysenso.com
