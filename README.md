@@ -13,6 +13,9 @@ Usage:
 
 Please share your comments and contact us if you are interested in updating the features further.
 
+
+MATLAB Release Compatibility: Created with R2015b, Compatible with R2015b and later releases.
+
 Developed by: Sysenso Systems, https://sysenso.com/
 
 Contact: contactus@sysenso.com
