@@ -19,3 +19,5 @@ MATLAB Release Compatibility: Created with R2015b, Compatible with R2015b and la
 Developed by: Sysenso Systems, https://sysenso.com/
 
 Contact: contactus@sysenso.com
+
+<img src=${image} alt="Your image title" width="250" />
