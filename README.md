@@ -19,5 +19,3 @@ MATLAB Release Compatibility: Created with R2015b, Compatible with R2015b and la
 Developed by: Sysenso Systems, https://sysenso.com/
 
 Contact: contactus@sysenso.com
-
-<img src="https://sysenso-storage.s3.eu-west-1.amazonaws.com/images/blogs/Co-SimulationFMU-1.jpg" alt="Your image title" width="250" />
